@@ -115,10 +115,13 @@ Streamlit Web Application
 Real / Fake Prediction
 
 
+
 ## Application Preview
+
+### Fake News Prediction
 
 ![Fake News Detection Application](screenshots/app_screenshot.png)
 
+### Real News Prediction
 
-
-
+![Real News Prediction](screenshots/real_news_screenshot.png)
